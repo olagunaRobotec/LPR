@@ -36,7 +36,7 @@ namespace AbstractLPR.LPR
 
         public override void Authentication()
         {
-            Console.WriteLine("Adios Dayron Authentication");
+            Console.WriteLine("Adios Dayron Authentication hasta la vista baby");
         }
 
         public override void RecognizerPlate()
